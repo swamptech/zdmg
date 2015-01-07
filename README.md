@@ -26,7 +26,7 @@ Uses Soundfonts for instruments.
 
 **Windows Instructions:**  
 * Place fluidsynth.dll (Available here: [http://www.zdoom.org/files/fluidsynth.7z](http://www.zdoom.org/files/fluidsynth.7z)) in the same folder as (g)zdoom.exe.
-* * Open up zdoom.ini (or zdoom-YOURUSERNAME.ini) and look for _fluid_patchset_ and have it equal the file path for the sound font you want to use so it looks similar to this:
+* Open up zdoom.ini (or zdoom-YOURUSERNAME.ini) and look for _fluid_patchset_ and have it equal the file path for the sound font you want to use so it looks similar to this:
 
 		fluid_patchset=C:\Users\Yourusername\soundfonts\Fluid_R3.sf2
 
